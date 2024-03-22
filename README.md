@@ -1,1 +1,1 @@
-To execute the code you need to seupt an envirnment variable "AzureKey" and set it value.
+To execute the code you need to setup an envirnment variable "AzureKey" and set it value.
